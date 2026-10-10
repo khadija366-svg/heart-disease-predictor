@@ -1,3 +1,7 @@
+# Heart Disease Prediction System
+Live app: https://heart-disease-predictor-v2cadzsyxzp6anvqzmk4mm.streamlit.app
+Notebook: Heart_Disease_Prediction_System.ipynb | Report: Heart_Disease_Report.pdf
+Course: AIC354 Machine Learning Fundamentals - Assignment 2
 # Heart Disease Prediction System - Web App
 
 A small web app that predicts whether heart disease is likely from **4 input attributes**
